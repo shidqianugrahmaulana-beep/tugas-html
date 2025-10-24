@@ -1,0 +1,99 @@
+.container{
+  text-align: center;
+  color: #f108b7;
+  text-shadow: 2px 2px 5px rgba(7, 0, 0, 0.3);
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding-top: 20px;
+  background-color: rgb(253, 253, 253);
+  border: 2px solid rgb(249, 250, 250);
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+ 
+
+
+.box {
+  background-color: white;
+  border: 2px solid white;  
+  border-radius: 10px;
+  padding: 20px;          
+  box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1); 
+  font-size: 20px;
+  max-width: 800px;  
+  margin: 20px auto ;
+}
+span {
+    color: rgb(49, 48, 48);
+}
+h2 {
+  color: rgb(25, 0, 255);
+}
+.box1 {
+  border: 2px solid rgb(0, 162, 255);
+  border-left: 4px solid #1e3a8a; 
+  padding: 4px;             
+  background-color: white;      
+  font-size: large;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto ;
+  
+}
+.box2 {
+  border-left: 4px solid #e40303; 
+  padding: 4px;             
+  background-color: #eb8089;    
+  font-size: large;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto ;
+}
+
+@font-face {
+  font-family: 'Bismillah Script.ttf';
+  src: url('fonts/bismillah_script/Bismillah\ Script.ttf') format('truetype');
+}
+
+.ttd {
+
+  color: #1b1819;
+  text-align: right;
+  font-size: 40px;
+ margin-right: 20px;
+  
+}
+.Ridho {
+  font-size: 50px;
+  font-family: 'Bismillah Script.ttf';
+  color:white;
+  text-align: right;
+  margin-right: 30px;
+}
+.class{
+  background-color: white;
+  padding: 30px 40px 30px 40px;
+  margin: 20px auto;
+  max-width: 800px;
+  margin-top: auto;
+  box-shadow: 0 4px 30px rgba(241, 5, 5, 0.1); 
+  border-radius: 10px;
+  
+}
+
+
+.site-footer {
+  text-align: center;
+  background-color: white;
+  color: blue;
+}
+
+body {
+  background:linear-gradient(white,rgb(8, 144, 235))
+}
+
+@font-face {
+  font-family: 'Modern Prestige DEMO.otf';
+  src: url('fonts/bismillah_script/Modern\ Prestige\ DEMO.otf') format('truetype');
+}
