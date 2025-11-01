@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../tugas-1"
+		},
+		{
+			"path": "../tugas-2"
+		},
+		{
+			"path": "../tugas-3"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tugas-5"
+		},
+		{
+			"path": "../tugas-6"
+		},
+		{
+			"path": "../tugas-7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tugas-4"
+	}
+}
